@@ -1,4 +1,4 @@
-### HANAFUDA BOT
+### HANAFUDA NETWORK BOT
 
 ![hana](assets/hana.jpeg)
 
@@ -7,6 +7,7 @@ Hanafuda Bot is a powerful tool designed for you to automate hanafuda retroactiv
 ---
 
 ## BOT FEATURE
+
 - Multi Account 
 - Support PK & SEED
 - Support ARB or BASE Network
@@ -16,6 +17,7 @@ Hanafuda Bot is a powerful tool designed for you to automate hanafuda retroactiv
 
 
 ## HANAFUDA RETROACTIVE
+
 New Retroactive: Hana Network
 ➡️ Connect: https://hanafuda.hana.network/dashboard
 - Login With Google
@@ -29,9 +31,9 @@ New Retroactive: Hana Network
 
 ---
 
-## Setup & Configure BOT
+## SETUP & CONFIGURE BOT
 
-### Linux
+### LINUX
 1. Clone project repo
    ```
    git clone https://github.com/Rambeboy/HANAFUDA.git && cd HANAFUDA
@@ -59,7 +61,7 @@ New Retroactive: Hana Network
    
 ---
 
-### Windows
+### WINDOWS
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
@@ -83,7 +85,7 @@ New Retroactive: Hana Network
 
 ---
 
-## Update Bot
+## UPDATE BOT
 
 To update bot follow this step :
 1. run
