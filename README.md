@@ -19,6 +19,7 @@ Hanafuda Bot is a powerful tool designed for you to automate hanafuda retroactiv
 ## HANAFUDA RETROACTIVE
 
 New Retroactive: Hana Network
+
 ➡️ Connect: https://hanafuda.hana.network/dashboard
 - Login With Google
 - Connect Metamask 
