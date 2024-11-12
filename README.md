@@ -37,7 +37,7 @@ New Retroactive: Hana Network
 ### LINUX
 1. Clone project repo
    ```
-   git clone https://github.com/Rambeboy/HANAFUDA.git && cd HANAFUDA
+   git clone https://github.com/Rambeboy/Hanafuda.git && cd Hanafuda
    ```
 2. Run
    ```
@@ -66,7 +66,7 @@ New Retroactive: Hana Network
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Rambeboy/HANAFUDA.git && cd HANAFUDA
+   git clone https://github.com/Rambeboy/Hanafuda.git && cd HANAFUDA
    ```
 3. Run 
    ```
@@ -130,5 +130,11 @@ the accounts writted with this format
  Inspect -> Appication tab -> Session Storage -> http://hanafuda.hana....
 ![photo_2024-10-27_21-07-20](https://github.com/user-attachments/assets/2d66ace2-c330-4ee1-8829-8ecd37ffbafe)
 
+
+---
+
+## LICENSE
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
