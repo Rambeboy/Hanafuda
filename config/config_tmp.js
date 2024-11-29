@@ -1,6 +1,6 @@
 export class Config {
   static USEDEPOSIT = true; //TURN ON OR OFF DEPOSIT
-  static NETWORK = "BASE"; //ARB or BASE
+  static NETWORK = "BASE"; //ARB, BASE, POLYGON
   static DEPOSITAMOUNT = 0.00001; //DEPOSIT AMOUNT
   static DAILYDEPOSITCOUNT = 10; //DEPOSIT COUNT DAILY
   static GWEIPRICE = 0.15; //GWEI PRICE
