@@ -1,12 +1,12 @@
 {
-  "name": "HANAFUDA",
+  "name": "hanafuda-bot",
   "version": "1.0.0",
   "type": "module",
   "description": "Hanafuda Bot is a powerful tool designed for you to automate hanafuda retroactive airdrop.",
   "main": "index.js",
   "scripts": {
-    "start": "node start.js",
-    "setup": "node setup.js",
+    "start": "node scripts/start.js",
+    "setup": "node scripts/setup.js",
     "dev": "node index.js",
     "build": "rm -rf app && javascript-obfuscator --config build-config.json",
     "test": "node test.js"
